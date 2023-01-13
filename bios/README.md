@@ -186,5 +186,6 @@ For undervolting use BIOS Version: 2.13.0
 [bios2170]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=wfgmn
 [bios2180]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=dk08c
 [bios2190]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=3gght
-[bios2220]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=0h104
+[bios2220_2]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=0h104
+[bios2200]: https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0h104
 [bios2210]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=xkrg8
