@@ -23,12 +23,12 @@ Here is a list of fixes, that you will miss out when using 2.13.0 instead of [2.
 * Fixed the issue where the SMM Security Mitigation gets disabled while loading BIOS defaults.
 * Fixed an issue with the hard drive master password reset not functioning.
 
-[intel289](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00289.html)
-[intel295](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00295.html)
-[intel322](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00322.html)
-[intel320](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00320.html)
-[intel329](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00329.html)
-[intel404](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00404.html)
+[intel289]:https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00289.html
+[intel295]:https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00295.html
+[intel322]:https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00322.html
+[intel320]:https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00320.html
+[intel329]:https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00329.html
+[intel404]:https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00404.html
 
 ### 2.15.1 (20 Apr 2021)
 
