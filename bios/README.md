@@ -17,11 +17,11 @@ For undervolting use BIOS Version: 2.13.0
 
 * Updated Intel ME Firmware to address security advisory CVE-2017-5689 / INTEL-SA-00075
 
-### 2.3.1
+### 2.3.1 (25 Oct 2017)
 
 * Enhance system stability
 
-### 2.4.2
+### 2.4.2 (12 Dec 2017)
 
 * Updated the handling of physical presence checks in firmware.
 * Updated the handling of pre-boot authentication information by firmware.
@@ -30,29 +30,29 @@ For undervolting use BIOS Version: 2.13.0
 * Updated SPI flash command configuration settings.
 * Optimize CPU loading to Improve EE noise.
 
-### 2.5.1
+### 2.5.1 (18 Feb 2018)
 
 * Updated Intel ME Firmware to address security advisories INTEL-SA-00086 (CVE-2017-5705, CVE-2017-5708, CVE-2017-5711 & CVE-2017-5712) & INTEL-SA-00101(CVE-2017-13077, CVE-2017-13078 & CVE-2017-13080)
 * Update to the latest CPU microcode to address CVE-2017-5715 and associated Intel Reboot issue
 
-### 2.6.2
+### 2.6.2 (22 Mar 2018)
 
 * Fixed incorrect Windows operating system logon message.
 * Enhanced SMM Security Mitigation feature.
 * Updated Embedded Controller Engine Firmware.
 * Updated Realtek USB LAN firmware.
 
-### 2.7.1
+### 2.7.1 (23 Jun 2018)
 
 * Improve startup stability when the RTC battery voltage is low
 * Support eGFX devices
 
-### 2.8.1
+### 2.8.1 (02 Jul 2018)
 
 * Updated Intel ME Firmware to address security advisories INTEL-SA-00112 (CVE-2018-3628 CVE-2018-3629 CVE-2018-3632) & INTEL-SA-00118(CVE-2018-3627)
 * Updated CPU microcode to address security advisory Intel Security Advisory INTEL-SA-00115 (CVE-2018-3639 & CVE-2018-3640)
 
-### 2.9.0
+### 2.9.0 (27 Aug 2018)
 
 * Update Intel ME Firmware to address security advisories INTEL-SA-00125 (CVE-2018-3655), Intel-SA-00131 (CVE-2018-3643 CVE-2018-3644) & INTEL-SA-00141 (CVE-2018-3657 CVE-2018-3658 CVE-2018-3616)
 * Fixed a potential system hang issue when an incorrectly formatted password is
