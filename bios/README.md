@@ -60,7 +60,7 @@ For undervolting use BIOS Version: 2.13.0
 * Enhance Killer Wifi stability.
 * Added TPM PPI Bypass for Clear Command support.
 
-### 2.10.0
+### 2.10.0 (22 Nov 2018)
 
 * Added BIOS Password Feature: Master Password Lockout.
 * Enhanced the stability of Linux operating system.
@@ -68,7 +68,7 @@ For undervolting use BIOS Version: 2.13.0
   are pressed together.
 * Improved keyboard typing experience for users.
 
-### 2.11.0
+### 2.11.0 (15 Apr 2019)
 
 * Fixed an issue with Secure Boot Option ROM Signature Verification.
 * Firmware updates to address security advisory INTEL-SA-00185 (CVE-2018-12188 CVE-2018-12190 CVE-2018-12191 CVE-2018-12192 CVE-2018-12199 CVE-2018-12198 CVE-2018-12200 CVE-2018-12187 CVE-2018-12196 CVE-2018-12185).
@@ -76,14 +76,14 @@ For undervolting use BIOS Version: 2.13.0
 * Fixes the issue where the mouse lags when the Dell TB16 dock is unplugged or plugged in.
 * Supports Dell Dock Station WD19.
 
-### 2.12.0
+### 2.12.0 (01 Jul 2019)
 
 * Firmware updates to address security advisory INTEL-SA-00213 (CVE-2019-0086, CVE-2019-0091, CVE-2019-0092, CVE-2019-0093, CVE-2019-0094 and CVE-2019-0096)
 * Firmware updates to address security advisories INTEL-SA-00233(CVE-2018-12126, CVE-2018-12127, CVE-2018-12130 and CVE-2019-11091)
 * Removed the pre-boot Intel RST Manager Optimized Defaults option.
 * Fixed the issue where BitLocker may prompt for recovery if Auto Power On option in BIOS setup is set to wake up system at a specific time.
 
-### 2.13.0
+### 2.13.0 (14 Jan 2020)
 
 * Firmware updates to address security advisory INTEL-SA-00241 (CVE-2019-0169, CVE-2019-11088, CVE-2019-11104, CVE-2019-0131, CVE-2019-11090, CVE-2019-0166, CVE-2019-0168, CVE-2019-11087, CVE-2019-11101, CVE-2019-11100, CVE-2019-11106, CVE-2019-11132, CVE-2019-11131, and CVE-2019-11147).
 * Firmware updates to address Intel security advisories INTEL-SA-00260 (CVE-2019-0154) and INTEL-SA-00254 (CVE-2019-0185).
@@ -94,7 +94,7 @@ For undervolting use BIOS Version: 2.13.0
 * Fixed the issue where the BitLocker prompts for recovery. It occurs when Auto Power On option in BIOS setup is set to wake up the system at a specific time.
 * Added a new feature to automatically suspend BitLocker before upgrading the firmware. After the firmware upgrade is complete, BitLocker is automatically enabled.
 
-### 2.14.2
+### 2.14.2 (26 Oct 2020)
 
 * Firmware updates to address the Intel Security Advisories INTEL-SA-00289 (CVE-2019-11157) and INTEL-SA-00317 (CVE-2019-14607).
 * Firmware updates to address security advisory INTEL-SA-00295 (CVE-2020-0531, CVE-2020-0532, CVE-2020-0534, CVE-2020-0535, CVE-2020-0536, CVE-2020-0537, CVE-2020-0538, CVE-2020-0539, CVE-2020-0540, CVE-2020-0541, CVE-2020-0542, CVE-2020-0594, CVE-2020-0595, CVE-2020-0596, and CVE-2020-8674).
@@ -106,7 +106,7 @@ For undervolting use BIOS Version: 2.13.0
 * Fixed the issue where the SMM Security Mitigation gets disabled while loading BIOS defaults.
 * Fixed an issue with the hard drive master password reset not functioning.
 
-### 2.15.1
+### 2.15.1 (20 Apr 2021)
 
 * Firmware updates to address the Intel Technical Advisory INTEL-TA-00391 (CVE-2020-8753, CVE-2020-8745, CVE-2020-8705, CVE-2020-8757, CVE-2020-8756, CVE-2020-8760, CVE-2020-8751, CVE-2020-8754, CVE-2020-8747, CVE-2020-8746, CVE-2020-8749 CVE-2020-8752, CVE-2020-12303, CVE-2020-12355, and CVE-2020-12356).
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00358 (CVE-2020-0587, CVE-2020-0591, CVE-2020-0592, and CVE-2020-0593).
@@ -114,32 +114,32 @@ For undervolting use BIOS Version: 2.13.0
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00389 (CVE-2020-8694 and CVE-2020-8695).
 * Firmware updates to address the Intel Technical Advisory INTEL-TA-00473 (CVE-2020-24586, CVE-2020-24587, and CVE-2020-24588).
 
-### 2.16.0
+### 2.16.0 (29 Jul 2021)
 
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00459 (CVE-2020-24507 and CVE-2020-8703).
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00464 (CVE-2020-24512).
 * Firmware updates to address security vulnerabilities.
 
-### 2.17.0
+### 2.17.0 (04 Oct 2021)
 
 * Firmware updates to address security vulnerabilities.
 
-### 2.18.0
+### 2.18.0 (09 Nov 2021)
 
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00562 (CVE-2021-0157).
 * Firmware updates to address security vulnerabilities.
 
-### 2.19.0
+### 2.19.0 (13 Jan 2022)
 
 * Firmware updates to address security vulnerabilities.
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00527 (CVE-2021-0107, CVE-2021-0111, CVE-2021-0114, CVE-2021-0115, CVE-2021-0116, CVE-2021-0117, CVE-2021-0118, CVE-2021-0119, CVE-2021-0124, CVE-2021-0125, CVE-2021-0156).
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00532 (CVE-2021-0127).
 
-### 2.20.0
+### 2.20.0 (18 May 2022)
 
 * Firmware updates to address security vulnerabilities including (Common Vulnerabilities and Exposures - CVE) such as CVE-2019-14584, CVE-2021-28210, CVE-2021-28211, CVE-2022-21123, CVE-2022-21125, CVE-2022-21127, CVE-2022-21166, CVE-2022-0005, CVE-2022-21151, CVE-2022-0004 and CVE-2022-21181.
 
-### 2.21.0
+### 2.21.0 (12 Jul 2022)
 
 * Improved the stability of the system.
 
