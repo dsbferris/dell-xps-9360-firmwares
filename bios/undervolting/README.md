@@ -1,6 +1,7 @@
 # Undervolting
 
 !!! THIS NEEDS TO BE TESTED !!!
+
 Intel removed undervolting possibility due to Plundervolt vulnerability.
 This has been implemented in BIOS Version [2.14.2](bios2142).
 If you want to undervolt, stickt with Version [2.13.0](bios213).
