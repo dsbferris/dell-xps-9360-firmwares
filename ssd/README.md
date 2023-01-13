@@ -27,13 +27,16 @@ Format - Hard-Drive
 Name - 5KDA4103-64bit_ZPE.exe
 
 #### Checksums
-
-MD5 - 2cc244166fad4722f6ee102dd6e07159
-
-SHA1 - 58707869052ea899991f2c56d0a727afc8ac31bf
-
-SHA-256 - fcc62d3ddfb94b1bee4ea4b94eeb0f25be080211befa87e842f629208c1a10b4
-
+<details>
+  
+  MD5 - 2cc244166fad4722f6ee102dd6e07159
+  
+  SHA1 - 58707869052ea899991f2c56d0a727afc8ac31bf
+  
+  SHA-256 - fcc62d3ddfb94b1bee4ea4b94eeb0f25be080211befa87e842f629208c1a10b4
+  
+</details>
+  
 ## SK Hynix SC308 Solid State Drive Firmware Update
 
 This package provides the firmware for SK HYNIX SC308 series Solid State Drive 2.5" and M.2 2280 128GB/256GB/512GB, Revision 30001P10, and is supported on Alienware, Inspiron, Latitude, Optiplex, Precision, Vostro and XPS models running the following Windows operating systems: Windows 7, Windows 8, Windows 8.1 and Windows 10.
@@ -59,12 +62,15 @@ Format - Hard-Drive
 Name - SK_hynix_SATA_FW_Updater_30001P10_ZPE.exe
 
 #### Checksums
+<details>
+  
+  MD5 - 3988de40f4316e57612fded202e4ab46
 
-MD5 - 3988de40f4316e57612fded202e4ab46
+  SHA1 -ed2c3a677bd500d55d5524d1e731617904ca993a
 
-SHA1 -ed2c3a677bd500d55d5524d1e731617904ca993a
+  SHA-256 -4ae2f45dfba004150059a56297a8ae2ba6728f2a4abe7277a9e67fe957c5b335
 
-SHA-256 -4ae2f45dfba004150059a56297a8ae2ba6728f2a4abe7277a9e67fe957c5b335
+</details>
 
 ## LITEON (CV3)
 
@@ -101,12 +107,15 @@ Format - Hard-Drive
 Name - CV3-X1_59XNJ_ZPE.exe
 
 #### Checksums
+<details>
+  
+  MD5 - 352952ae1436acb089bdb7df7b85be7d
 
-MD5 - 352952ae1436acb089bdb7df7b85be7d
+  SHA1 - 0b5c5a95684cd4dc61928cf46cfde11e63b489b0
 
-SHA1 - 0b5c5a95684cd4dc61928cf46cfde11e63b489b0
+  SHA-256 - d4c786564e285fd987466fb2be7a3fb2ba9dd03d939ae7e7e48f25b24910ff36
 
-SHA-256 - d4c786564e285fd987466fb2be7a3fb2ba9dd03d939ae7e7e48f25b24910ff36
+</details>
 
 ## LITEON (CX2)
 
@@ -133,12 +142,15 @@ Format - Hard-Drive
 Name - CWX68_ZPE.exe
 
 #### Checksums
+<details>
+  
+  MD5 -a314d2e8e38091b145c298727b8a7d29
 
-MD5 -a314d2e8e38091b145c298727b8a7d29
+  SHA1 - 5de229be1cdf775c934147f24c0df6d7c412d07a
 
-SHA1 - 5de229be1cdf775c934147f24c0df6d7c412d07a
-
-SHA-256 - 033315a5dd53b6d471336104c2bfb0806e6d33d87cc498f259e9a12c25c3152b
+  SHA-256 - 033315a5dd53b6d471336104c2bfb0806e6d33d87cc498f259e9a12c25c3152b
+  
+</details>
 
 ## SanDisk X400 Series SSD Firmware Update
 
@@ -168,12 +180,16 @@ Format - Hard-Drive
 Name - 349VH_ZPE.exe
 
 #### Checksums
+<details>
+  
+  MD5 - 863aa6fbf38da53ce37dcac2111eebcb
 
-MD5 - 863aa6fbf38da53ce37dcac2111eebcb
+  SHA1 - 2087a9f83ed8a31c9f53dfdd32f833b48f645428
 
-SHA1 - 2087a9f83ed8a31c9f53dfdd32f833b48f645428
+  SHA-256 - cd5aa8be6bb4377da6cc3ce3ff7a3f4f137ac90b22e6c838e75cd1ec1a12b7e1
+  
+</details>
 
-SHA-256 - cd5aa8be6bb4377da6cc3ce3ff7a3f4f137ac90b22e6c838e75cd1ec1a12b7e1
 
 ## Toshiba KXG50 non-SED Solid State Drive Firmware Update
 
@@ -203,10 +219,16 @@ Format - Hard-Drive
 Name - Toshiba XG5_nonSED_ KXG50ZNV256G_512G_1T02_C0PF8_ZPE.exe
 
 ### Checksums
+<details>
+  
+  MD5 - ca396252f92a809bd513591794981eff
+  
+  SHA1 - f2878f15f82ba871e4d14e583f982eecc4ac43b5
+  
+  SHA-256 - ae8eaed05ddfbdc1b5f5ad90b8632916139fd7ec72bb58974a2dfe0162390186
+  
+</details>
 
-MD5 - ca396252f92a809bd513591794981eff
-SHA1 - f2878f15f82ba871e4d14e583f982eecc4ac43b5
-SHA-256 - ae8eaed05ddfbdc1b5f5ad90b8632916139fd7ec72bb58974a2dfe0162390186
 
 ### Version
 
@@ -231,12 +253,15 @@ Format - Hard-Drive
 Name - Toshiba XG5 Non-SED 81F76_ZPE.exe
 
 ### Checksums
+<details>
+  
+  MD5 - 5e87f6cf33781c15e4a229500fefeb40
 
-MD5 - 5e87f6cf33781c15e4a229500fefeb40
+  SHA1 - ef428f2b4150e8290c7cd436e8344bc90af28774
 
-SHA1 - ef428f2b4150e8290c7cd436e8344bc90af28774
+  SHA-256 - 5a5637f370f2387f4ad997141b2066cc19eb2f9515003a91835ef0cbc8b04e46
 
-SHA-256 - 5a5637f370f2387f4ad997141b2066cc19eb2f9515003a91835ef0cbc8b04e46
+</details>
 
 ## Links
 
