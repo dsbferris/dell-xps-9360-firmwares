@@ -13,7 +13,7 @@ Here is a list of fixes, that you will miss out when using 2.13.0 instead of [2.
 
 ### 2.14.2 (26 Oct 2020)
 
-* Firmware updates to address the Intel Security Advisories [INTEL-SA-00289][intel289] *AKA PLUNDERVOLT* (CVE-2019-11157) and INTEL-SA-00317 (CVE-2019-14607).
+* Firmware updates to address the Intel Security Advisories [INTEL-SA-00289][intel289] (*AKA PLUNDERVOLT*) (CVE-2019-11157) and INTEL-SA-00317 (CVE-2019-14607).
 * Firmware updates to address security advisory [INTEL-SA-00295][intel295] (CVE-2020-0531, CVE-2020-0532, CVE-2020-0534, CVE-2020-0535, CVE-2020-0536, CVE-2020-0537, CVE-2020-0538, CVE-2020-0539, CVE-2020-0540, CVE-2020-0541, CVE-2020-0542, CVE-2020-0594, CVE-2020-0595, CVE-2020-0596, and CVE-2020-8674).
 * Firmware updates to address the Intel Security Advisory [INTEL-SA-00322][intel322] (CVE-2020-0528 and CVE-2020-0529).
 * Firmware updates to address the Intel Security Advisory [INTEL-SA-00320][intel320] (CVE-2020-0543).
