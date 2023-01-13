@@ -1,11 +1,5 @@
 # Dell XPS 13 9360 System BIOS
 
-# PLUNDERVOLT CVE
-CVE-2019-11157
-BIOS VERSION FIXING PLUNDERVOLT: 2.14.2
-For undervolting use BIOS Version: 2.13.0
-
-
 ## Changelog
 
 ### 1.3.2
