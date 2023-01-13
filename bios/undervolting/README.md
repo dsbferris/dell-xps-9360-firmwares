@@ -13,15 +13,22 @@ Here is a list of fixes, that you will miss out when using 2.13.0 instead of [2.
 
 ### 2.14.2 (26 Oct 2020)
 
-* Firmware updates to address the Intel Security Advisories INTEL-SA-00289 (CVE-2019-11157) and INTEL-SA-00317 (CVE-2019-14607).
-* Firmware updates to address security advisory INTEL-SA-00295 (CVE-2020-0531, CVE-2020-0532, CVE-2020-0534, CVE-2020-0535, CVE-2020-0536, CVE-2020-0537, CVE-2020-0538, CVE-2020-0539, CVE-2020-0540, CVE-2020-0541, CVE-2020-0542, CVE-2020-0594, CVE-2020-0595, CVE-2020-0596, and CVE-2020-8674).
-* Firmware updates to address the Intel Security Advisory INTEL-SA-00322 (CVE-2020-0528 and CVE-2020-0529).
-* Firmware updates to address the Intel Security Advisory INTEL-SA-00320 (CVE-2020-0543).
-* Firmware updates to address the Intel Security Advisory INTEL-SA-00329 (CVE-2020-0548 and CVE-2020-0549).
-* Firmware updates to address CVE-2020-5362.
-* Firmware updates to address the Intel Technical Advisory INTEL-TA-00404 (CVE-2020-8758).
+* Firmware updates to address the Intel Security Advisories [INTEL-SA-00289](289) (CVE-2019-11157) and INTEL-SA-00317 (CVE-2019-14607).
+* Firmware updates to address security advisory [INTEL-SA-00295](295) (CVE-2020-0531, CVE-2020-0532, CVE-2020-0534, CVE-2020-0535, CVE-2020-0536, CVE-2020-0537, CVE-2020-0538, CVE-2020-0539, CVE-2020-0540, CVE-2020-0541, CVE-2020-0542, CVE-2020-0594, CVE-2020-0595, CVE-2020-0596, and CVE-2020-8674).
+* Firmware updates to address the Intel Security Advisory [INTEL-SA-00322](322) (CVE-2020-0528 and CVE-2020-0529).
+* Firmware updates to address the Intel Security Advisory [INTEL-SA-00320](320) (CVE-2020-0543).
+* Firmware updates to address the Intel Security Advisory [INTEL-SA-00329](329) (CVE-2020-0548 and CVE-2020-0549).
+* Firmware updates to address [CVE-2020-5362](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-5362).
+* Firmware updates to address the Intel Technical Advisory [INTEL-TA-00404](404) (CVE-2020-8758).
 * Fixed the issue where the SMM Security Mitigation gets disabled while loading BIOS defaults.
 * Fixed an issue with the hard drive master password reset not functioning.
+
+[289](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00289.html)
+[295](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00295.html)
+[322](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00322.html)
+[320](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00320.html)
+[329](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00329.html)
+[404](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00404.html)
 
 ### 2.15.1 (20 Apr 2021)
 
