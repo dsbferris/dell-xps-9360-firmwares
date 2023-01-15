@@ -1,10 +1,24 @@
 # Undervolting
 
 !!! THIS NEEDS TO BE TESTED !!!
-
+## About undervolting
 Intel removed undervolting due to Plundervolt vulnerability.
 This has been implemented in BIOS Version [2.14.2](bios2142).
 If you want to undervolt, stickt with Version [2.13.0](bios213).
+
+## BIOS Downgrade
+Executing the exe as admin did not work out for me under Windows 11.
+Instead copy the exe to a FAT32 Volume. Reboot and hit F12 -> BIOS Flash.
+Select the exe and flash.
+The update/downgrade of Intel ME failed for me, but regardless the BIOS Flash successful.
+
+## Setting the Variables
+
+As the Options arent visible from the BIOS we got to change them with
+setup_var.efi.
+
+### The Variables
+
 
 !!! ADD INFO IF A DOWNGRADE FROM 2.21.0 IS POSSIBLE !!!
 
